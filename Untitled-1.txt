@@ -1,0 +1,7 @@
+pick a pizza place
+open app
+decide on type of pizza
+review order
+choose payment method
+order pizza
+wait
