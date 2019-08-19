@@ -4,4 +4,6 @@ decide on type of pizza
 review order
 choose payment method
 order pizza
+    pay delivery person
+    tip
 wait
