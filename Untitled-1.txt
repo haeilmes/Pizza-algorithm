@@ -5,3 +5,6 @@ review order
 choose payment method
 order pizza
 wait
+    pay delivery person
+    tip delivery person
+eat pizza
